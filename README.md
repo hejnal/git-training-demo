@@ -1,5 +1,3 @@
 # git-training-demo
 
-a
-b
-c
+merged line
